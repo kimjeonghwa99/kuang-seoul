@@ -1,0 +1,28 @@
+{
+  "region": "서울",
+  "updated_at": "2025-01-01",
+  "centers": [
+    {
+      "id": "seoul-gangseo-1",
+      "area": "강서/마곡",
+      "center_name": "강서 물류센터",
+      "difficulty": 4,
+      "beginner_friendly": false,
+      "transfer_risk": "높음",
+      "navigation_risk": "보통",
+      "transport": "대중교통 가능",
+      "one_line_review": "당일 이동 공지 나오는 경우 있음. 초보면 멘붕 가능."
+    },
+    {
+      "id": "seoul-yangjae-1",
+      "area": "양재/서초",
+      "center_name": "양재 물류센터",
+      "difficulty": 5,
+      "beginner_friendly": false,
+      "transfer_risk": "높음",
+      "navigation_risk": "높음",
+      "transport": "대중교통 가능",
+      "one_line_review": "허브 걸리면 체력 소모 큼. 설명 거의 없음."
+    }
+  ]
+}

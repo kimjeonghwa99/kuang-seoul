@@ -1,0 +1,9 @@
+# local data (개인 기록, 민감 정보)
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# logs / temp
+*.log
